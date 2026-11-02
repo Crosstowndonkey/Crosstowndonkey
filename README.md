@@ -16,6 +16,12 @@ I design and ship working, tested software - games, game mods, automation tools 
 - **Stream highlight tools** - Python + ffmpeg + speech-to-text tooling I use to turn Twitch streams into YouTube Shorts
   and edited episodes for streamers.
 
+> "One of my most recent clips that did well, garnered 1200 viewers! And when I was making 10-20 views tops?! That's
+> insane growth. Vincent's expertise and personality make him a great guy to work with, he works quick... He manages to
+> capture my vibe very well!"
+> - **ToffeeTortoise**, Twitch streamer ([Twitch](https://twitch.tv/toffeetortoise) ·
+> [YouTube](https://www.youtube.com/channel/UCaacgiFu96eI-iLeGos9UqQ))
+
 #### Tools
 Python · Godot / GDScript · Lua · HTML / CSS · ffmpeg · git · Linux · Claude Code
 
