@@ -20,7 +20,7 @@ I design and ship working, tested software - games, game mods, automation tools 
 > insane growth. Vincent's expertise and personality make him a great guy to work with, he works quick... He manages to
 > capture my vibe very well!"
 > - **ToffeeTortoise**, Twitch streamer ([Twitch](https://twitch.tv/toffeetortoise) ·
-> [YouTube](https://www.youtube.com/channel/UCaacgiFu96eI-iLeGos9UqQ))
+> [YouTube](https://www.youtube.com/@ToffeeTortoise)) · [watch the Short he mentions](https://www.youtube.com/shorts/uYHso7hIrvE)
 
 #### Tools
 Python · Godot / GDScript · Lua · HTML / CSS · ffmpeg · git · Linux · Claude Code
