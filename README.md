@@ -13,6 +13,10 @@ I design and ship working, tested software - games, game mods, automation tools 
   headless game server.
 - **[Smart Fuel](https://github.com/Crosstowndonkey/factorio-smart-fuel)** - a published Factorio mod: everything that
   burns fuel keeps itself fuelled, with the right fuel for each machine. 17 automatic tests.
+- **[Planet Workshop](https://mods.factorio.com/mod/planet-workshop)** - a published Factorio mod
+  ([code](https://github.com/Crosstowndonkey/factorio-planet-workshop)): design your own Space Age planets in an in-game
+  designer with a live preview, then play them or share them as codes. 412 automatic tests, including fuzzed planet
+  codes, random-click GUI testing, save/load and a multiplayer desync check.
 - **Stream highlight tools** - Python + ffmpeg + speech-to-text tooling I use to turn Twitch streams into YouTube Shorts
   and edited episodes for streamers.
 
