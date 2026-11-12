@@ -13,6 +13,10 @@ I design and ship working, tested software - games, game mods, automation tools 
   headless game server.
 - **[Smart Fuel](https://github.com/Crosstowndonkey/factorio-smart-fuel)** - a published Factorio mod: everything that
   burns fuel keeps itself fuelled, with the right fuel for each machine. 17 automatic tests.
+- **[Cargo Cannon](https://mods.factorio.com/mod/cargo-cannon)** - a published Factorio mod
+  ([code](https://github.com/Crosstowndonkey/factorio-cargo-cannon)): fire capsules of cargo up to space platforms, back
+  down to the planet, and across space to other planets, controlled by the circuit network. Inspired by Space
+  Exploration's delivery cannon, with its author's blessing. 115 automatic tests, including save/load mid-flight.
 - **[Planet Workshop](https://mods.factorio.com/mod/planet-workshop)** - a published Factorio mod
   ([code](https://github.com/Crosstowndonkey/factorio-planet-workshop)): design your own Space Age planets in an in-game
   designer with a live preview, then play them or share them as codes. 412 automatic tests, including fuzzed planet
